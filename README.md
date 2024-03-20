@@ -22,17 +22,40 @@ In graph theory, it is possible to make graphs that do not contain small cycles.
 
 This design is powered using any pro micro-style microcontroller.
 
+## Versions
+- Regular MX-hotswap version
+    - 19.05 x 19.05 spacing
+    - MX hot-swap style holes (requires 42 MX hot-swap sockets)
+    - Per-key RGB LEDs (optional)
+- Regular MX version
+    - 19.05 x 19.05 spacing
+    - Switches soldered directly to board
+    - Per-key RGB LEDs (optional)
+- Choc version
+    - 18 x 17 spacing
+    - Choc hot-swap style holes (requires 42 choc hot-swap sockets)
+    - Per-key RGB LEDs (optional)
+- Micro choc version
+    - 17 x 17 spacing
+    - Choc hot-swap style holes (requires 42 choc hot-swap sockets)
+    - Per-key RGB LEDs (optional)
+ 
+
 ## Progress
 
-- Regular MX version
+- Regular MX-hotswap version
     - [X] Design created
     - [X] Prototype ordered
     - [ ] Prototype delivered
     - [ ] Prototype tested
     - [ ] Firmware created (QMK)
     - [ ] 3D case created
-    - [ ] Top and bottom plates created 
-
+    - [ ] Top and bottom plates created
+    - [ ] Build guide
+- Regular MX version
+- Choc version
+- Micro choc version 
+  
 ## What files are here
 
 - Gerber files for production
