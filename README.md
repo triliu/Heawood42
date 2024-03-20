@@ -22,9 +22,18 @@ In graph theory, it is possible to make graphs that do not contain small cycles.
 
 This design is powered using any pro micro-style microcontroller.
 
+## Progress
+
+- Regular MX version
+    - [X] Design created
+    - [X] Prototype ordered
+    - [ ] Prototype delivered
+    - [ ] Prototype tested
+    - [ ] Firmware created (QMK)
+    - [ ] 3D case created
+    - [ ] Top and bottom plates created 
+
 ## What files are here
 
 - Gerber files for production
-- QMK firmware
-- 3D files for the case
 
