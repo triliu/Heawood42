@@ -43,10 +43,24 @@ This design is powered using any pro micro-style microcontroller.
 
 ## Progress
 
-- Regular MX-hotswap version
+- Prototype 1 (cornish version, wireless)
     - [X] Design created
     - [X] Prototype ordered
-    - [ ] Prototype delivered
+    - [X] Prototype received
+    - [X] Prototype tested
+    - [X] Firmware created (ZMK)
+- Prototype 2 (new layout, wireless)
+    - [X] Design created
+    - [X] Prototype ordered
+    - [X] Prototype received
+    - [X] Prototype tested
+    - [X] Firmware created (ZMK)
+    - [X] 3D case created
+    - [X] Top and bottom plates created
+- Regular MX hot-swap version
+    - [X] Design created
+    - [X] Prototype ordered
+    - [ ] Prototype received
     - [ ] Prototype tested
     - [ ] Firmware created (QMK)
     - [ ] 3D case created
