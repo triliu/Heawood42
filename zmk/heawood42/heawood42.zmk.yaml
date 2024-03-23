@@ -1,0 +1,14 @@
+file_format: "1"
+id: heawood42
+name: Heawood42
+type: shield
+url: https://github.com/triliu/Heawood42
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - underglow
+siblings:
+  - heawood42_left
+  - heawood42_right

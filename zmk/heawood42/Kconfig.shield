@@ -1,0 +1,7 @@
+#license info here
+
+config SHIELD_HEAWOOD42_LEFT
+    def_bool $(shields_list_contains,heawood42_left)
+
+config SHIELD_HEAWOOD42_RIGHT
+    def_bool $(shields_list_contains,heawood42_right)
