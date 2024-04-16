@@ -2,12 +2,12 @@
 
 &kscan0 {
     col-gpios
-        = <&pro_micro 21 GPIO_ACTIVE_HIGH> // col1 in the schematic
-        , <&pro_micro 20 GPIO_ACTIVE_HIGH> // col2 in the schematic
-        , <&pro_micro 19 GPIO_ACTIVE_HIGH> // col3 in the schematic
-        , <&pro_micro 18 GPIO_ACTIVE_HIGH> // col4 in the schematic
-        , <&pro_micro 15 GPIO_ACTIVE_HIGH> // col5 in the schematic
-        , <&pro_micro 14 GPIO_ACTIVE_HIGH> // col6 in the schematic
-        , <&pro_micro 16 GPIO_ACTIVE_HIGH> // col7 in the schematic
+        = <&pro_micro 21 GPIO_OPEN_SOURCE> // col1 in the schematic
+        , <&pro_micro 20 GPIO_OPEN_SOURCE> // col2 in the schematic
+        , <&pro_micro 19 GPIO_OPEN_SOURCE> // col3 in the schematic
+        , <&pro_micro 18 GPIO_OPEN_SOURCE> // col4 in the schematic
+        , <&pro_micro 15 GPIO_OPEN_SOURCE> // col5 in the schematic
+        , <&pro_micro 14 GPIO_OPEN_SOURCE> // col6 in the schematic
+        , <&pro_micro 16 GPIO_OPEN_SOURCE> // col7 in the schematic
         ;
 };
