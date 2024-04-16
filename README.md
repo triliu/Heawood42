@@ -60,7 +60,7 @@ This design is powered using any pro micro-style microcontroller.
 - Regular MX hot-swap version
     - [X] Design created
     - [X] Prototype ordered
-    - [ ] Prototype received
+    - [X] Prototype received
     - [ ] Prototype tested
     - [ ] Firmware created (QMK)
     - [ ] 3D case created
@@ -68,9 +68,14 @@ This design is powered using any pro micro-style microcontroller.
     - [ ] Build guide
 - Regular MX version
 - Choc version
+    - [X] Design created
+    - [X] Prototype ordered
+    - [X] Prototype received
+    - [X] Prototype tested
+    - [X] Firmware created (ZMK)
+    - [X] 3D case created
+    - [X] Top and bottom plates created
+    - [ ] Build guide
 - Micro choc version 
   
-## What files are here
-
-- Gerber files for production
 
