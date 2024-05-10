@@ -1,0 +1,246 @@
+59875579477180
+PCM_marbastlib-xp-promicroish
+Elite-C_AC
+Footprint for Elite-C controllers, castellated pads only
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_ACH
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+59
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_AH_Reversible
+Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_AH_USBdn
+Footprint for Elite-C controllers, through hole pads only, USB facing PCB
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_AH_USBup
+Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
+
+0
+30
+30
+PCM_marbastlib-xp-promicroish
+Elite-C_C
+Footprint for Elite-C controllers (pro-micro-pins only), castellated pads only
+
+0
+25
+25
+PCM_marbastlib-xp-promicroish
+Elite-C_CH
+Footprint for Elite-C controllers (pro-micro-pins only), castellated and through hole pads
+
+0
+49
+25
+PCM_marbastlib-xp-promicroish
+Helios_AC
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Helios_ACH
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+34
+PCM_marbastlib-xp-promicroish
+Helios_AH_Reversible
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Helios_AH_USBdn
+Footprint for 0xCB Helios controllers, USB facing PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Helios_AH_USBup
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+34
+PCM_marbastlib-xp-promicroish
+Liatris_AH_Reversible
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+Liatris_AH_USBdn
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+Liatris_AH_USBup
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+Liatris_H_USBdn
+Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+Liatris_H_USBup
+Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+Pluto_AH_Reversible
+Footprint for 0xCB Pluto controllers, Reversible
+
+0
+33
+33
+PCM_marbastlib-xp-promicroish
+Pluto_AH_USBdn
+Footprint for 0xCB Pluto controllers, USB facing PCB
+
+0
+33
+33
+PCM_marbastlib-xp-promicroish
+Pluto_AH_USBup
+Footprint for 0xCB Pluto controllers, USB pointing away from PCB
+
+0
+33
+33
+PCM_marbastlib-xp-promicroish
+ProMicro_Reversible
+Footprint for Arduino Pro Micro and compatible boards, Reversible with 2 staggered footprints
+
+0
+48
+24
+PCM_marbastlib-xp-promicroish
+ProMicro_Reversible_Single
+Footprint for Arduino Pro Micro and compatible boards, Reversible with single footprint
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+ProMicro_USBdn
+Footprint for Arduino Pro Micro and compatible boards, USB facing PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+ProMicro_USBup
+Footprint for Arduino Pro Micro and compatible boards, USB pointing away from PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+Xiao_nRF52840_ACH
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+40
+22
+PCM_marbastlib-xp-promicroish
+Xiao_nRF52840_AC_Reflow
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+22
+22
+PCM_marbastlib-xp-promicroish
+Xiao_nRF52840_AH_Pogo
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+22
+22
+PCM_marbastlib-xp-promicroish
+Xiao_rp2040_ACH
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+36
+20
+PCM_marbastlib-xp-promicroish
+Xiao_rp2040_AC_Reflow
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+20
+20
+PCM_marbastlib-xp-promicroish
+Xiao_rp2040_AH_Pogo
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+20
+20
+PCM_marbastlib-xp-promicroish
+nice_nano_AH_Reversible
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), Reversible
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+nice_nano_AH_USBdn
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB facing PCB
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+nice_nano_AH_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+29
+29
+PCM_marbastlib-xp-promicroish
+nice_nano_H_USBdn
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB facing PCB
+
+0
+24
+24
+PCM_marbastlib-xp-promicroish
+nice_nano_H_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB pointing away from PCB
+
+0
+24
+24
