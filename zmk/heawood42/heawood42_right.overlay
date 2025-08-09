@@ -4,6 +4,8 @@
     col-offset = <7>;
 };
 
+
+
 &kscan0 {
     col-gpios
         = <&pro_micro 21 GPIO_OPEN_SOURCE> // col1 in the schematic

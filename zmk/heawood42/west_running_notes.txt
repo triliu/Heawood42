@@ -1,0 +1,7 @@
+devcontainer up --workspace-folder "/home/triliu/gits/zmk"
+docker ps
+docker exec -w /workspaces/zmk -i d5a17f3ab6ca /bin/bash 
+
+west build -p -d build/heawood42/left -b nice_nano_v2 -S studio-rpc-usb-uart -- -DSHIELD=heawood42_left -DCONFIG_ZMK_STUDIO=y
+west build -p -d build/heawood42/right -b nice_nano_v2 -S studio-rpc-usb-uart -- -DSHIELD=heawood42_right -DCONFIG_ZMK_STUDIO=y
+west build -p -d build/reset -b nice_nano_v2 -- -DSHIELD=settings_reset

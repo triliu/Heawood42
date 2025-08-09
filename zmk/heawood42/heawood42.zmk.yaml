@@ -9,6 +9,7 @@ features:
   - keys
   - display
   - underglow
+  - studio
 siblings:
   - heawood42_left
   - heawood42_right
